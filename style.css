@@ -1,0 +1,12 @@
+h1 {
+  text-transform: uppercase;
+  font-size: 60px;
+}
+
+h2 {
+  text-transform: capitalize;
+}
+
+p {
+  font-weight: bold;
+}
